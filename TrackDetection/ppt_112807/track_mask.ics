@@ -1,0 +1,17 @@
+	
+ics_version	1.0
+filename	track_mask
+layout	parameters	4
+layout	order	bits	x	y	z
+layout	sizes	8	115	87	8
+layout	coordinates	video
+layout	significant_bits	1
+representation	format	integer
+representation	sign	unsigned
+representation	compression	uncompressed
+representation	byte_order	1
+parameter	origin	0.000000e+000	0.000000e+000	0.000000e+000	0.000000e+000
+parameter	scale	1.000000	1.000000	1.000000	1.000000
+parameter	units	relative	undefined	undefined	undefined
+parameter	labels	intensity	x-position	y-position	z-position
+history	software	DIPlib with dipIO
